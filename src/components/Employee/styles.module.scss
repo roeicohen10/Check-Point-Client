@@ -1,0 +1,15 @@
+.container{
+    border: 3px solid black;
+    border-bottom: none;
+    padding: 1em;
+    display: flex;
+    justify-content: space-around;
+}
+
+span{
+    min-width: 20%;
+    max-width: 20%;
+    overflow: hidden;
+    white-space: nowrap;
+        text-overflow: ellipsis;
+}

@@ -1,0 +1,20 @@
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+    .statusContainer{
+        margin-top: 5em;
+        padding-bottom: 2em;
+        text-align:left;
+        border-bottom: 3px solid gray;
+    }
+    .filters{
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.employeesContainer{
+    margin: 2em;
+    border-bottom: 3px solid black;
+
+}

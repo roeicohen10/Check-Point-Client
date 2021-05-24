@@ -1,0 +1,35 @@
+
+
+.row{
+    margin: 0 auto;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.registerBtn{
+    margin: 0 auto;
+    margin-top: 2em;
+    width: 20em;
+}
+
+.formArea{
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.registerInput{
+    margin: .4em;
+}
+
+.formRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 25%;
+    
+}
